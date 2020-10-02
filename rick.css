@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 header{
@@ -10,7 +10,7 @@ header{
     padding-bottom: 30px;
 }
 h1,h2{ 
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 header h1{
     color:white;
